@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SAWmmh8ITsIJKOWC/Gvq0zzsdP+rIxq8ivAa7NebUEpRHhgVhOPJOifQ46BTZljh0Jf5AgG0mXyTV2nf8yhwdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\Desktop\\Bootcamp-C-Sharp\\Pottencial - dotNET Developer\\SimulacaoFalhaTeste\\SimulacaoFalhaTeste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
